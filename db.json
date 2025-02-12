@@ -2,30 +2,30 @@
   "users": [
     {
       "id": 1,
-      "name": "Alice Johnson",
-      "email": "alice@example.com"
+      "name": "Karina Maria",
+      "email": "karina@gmail.com"
     },
     {
       "id": 2,
-      "name": "Bob Smith",
-      "email": "bob@example.com"
+      "name": "Karina Mateo",
+      "email": "mateo@yahoo.com"
     }
   ],
   "items": [
     {
       "id": 101,
       "title": "Introduction to JSON",
-      "description": "A beginner-friendly guide to understanding JSON structure."
+      "description": "A beginner-friendly guide to understanding JSON."
     },
     {
       "id": 102,
-      "title": "REST API Basics",
-      "description": "An overview of how REST APIs work with JSON data."
+      "title": "API Basics",
+      "description": "An overview of API."
     },
     {
       "id": 103,
-      "title": "GitHub for Beginners",
-      "description": "A step-by-step guide to using GitHub for version control."
+      "title": "GitHub Basics",
+      "description": "A step-by-step guide to using GitHub."
     }
   ],
   "collection": {
