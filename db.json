@@ -13,6 +13,8 @@
   ],
   "items": [
     {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
       "id": 101,
       "title": "Introduction to JSON",
       "description": "A beginner-friendly guide to understanding JSON."
