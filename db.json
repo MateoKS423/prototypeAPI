@@ -20,11 +20,15 @@
       "description": "A beginner-friendly guide to understanding JSON."
     },
     {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
       "id": 102,
       "title": "API Basics",
       "description": "An overview of API."
     },
     {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
       "id": 103,
       "title": "GitHub Basics",
       "description": "A step-by-step guide to using GitHub."
