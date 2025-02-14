@@ -4,16 +4,16 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "id": "1",
-      "name": "ana mo",
-      "description": "Ana goes to school.",
+      "name": "Ana Mo",
+      "description": "Ana teacher.",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "id": "2",
-      "name": "karina mateo",
-      "description": "Mateo is a beautiful baby.",
+      "name": "Karina Mateo",
+      "description": "Mateo the baby.",
       "itemId": "3"
     }
   ],
