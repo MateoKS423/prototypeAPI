@@ -1,14 +1,20 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Karina Maria",
-      "email": "karina@gmail.com"
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "ana mo",
+      "description": "Ana goes to school.",
+      "itemId": "1"
     },
     {
-      "id": 2,
-      "name": "Karina Mateo",
-      "email": "mateo@yahoo.com"
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "karina mateo",
+      "description": "Mateo is a beautiful baby.",
+      "itemId": "3"
     }
   ],
   "items": [
@@ -34,7 +40,12 @@
       "description": "A step-by-step guide to using GitHub."
     }
   ],
-  "collection": {
-    "description": "This JSON file contains a list of users and items related to programming and technology topics."
+   "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Schoolwork",
+    "name": "Karina API",
+    "creator": "Mateo Karina",
+    "about": "Study guides for API",
+    "url": "https://www.jasonclark.info"
   }
 }
